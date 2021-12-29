@@ -1,0 +1,13 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"CTM",
+        "layer":"TRANSLUCENT",
+        "textures":[
+            "minecraft:block/nether_portal_ctm"
+        ],
+	"extra": {
+		"light": 0
+	}
+    }
+}
